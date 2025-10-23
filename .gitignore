@@ -1,0 +1,6 @@
+*.json
+node_modules
+.env
+*.map
+dist
+*.tsbuildinfo
